@@ -1,0 +1,6 @@
+body { background-color:black; font-family:century gothic; }
+header {color: pink; font-size: 8; font-weight: bold; text-align: center;}
+		section{color: white; text-align: center;}
+		.section-two{font-style: italic;}
+		.section-three {font-weight: bold;}
+		footer {background: steelblue; color: white;}
