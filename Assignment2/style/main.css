@@ -1,0 +1,87 @@
+body { 
+	background-color:#4c4c4c; 
+	font-family:georgia; 
+}
+
+header {
+	color: white; 
+	font-weight: bold; 
+	text-align: center; 
+	font-style:italic;
+}
+
+	.navigator {
+		color:white; 
+		font-weight:bold; 
+		font-style: normal; 
+		text-align: center;
+		font-family: arial;
+}
+
+section{
+	color: white; 
+	text-align: left;
+}
+
+a {
+	color:#00C78C;
+}
+
+h2 { 
+	font-family:arial;
+}
+
+h4 { 
+	font-family:arial;
+	color:#A9A9A9
+}
+
+hr {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width:1px solid 
+    border-color: #A9A9A9;
+} 
+
+table, td {
+   border: 5px solid gray;	
+   padding: 40px;
+   text-align: left;
+   border-collapse: collapse;
+} 
+
+img {
+   border: 1px solid gray;	
+   padding: 5px;
+   border-collapse: collapse;
+   margin:20px;
+} 
+
+footer {
+	color: white; 
+	font-weight: bold; 
+	text-align: center; 
+	font-style:normal;
+	font-family: arial;
+}
+
+ul {
+	list-style-type: square;
+}
+
+
+#exp {
+	color: #A9A9A9;
+}
+
+
+
+#education {
+	color: white;
+	font-weight: bold;
+	font-family: arial;
+}
+
